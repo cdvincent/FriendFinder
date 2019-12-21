@@ -2,6 +2,10 @@ body {
     margin: 0 auto 10% auto;
 }
 
+footer {
+    margin-bottom: 30px;
+}
+
 #submit {
     display: inline-block;
     width: 100%;
