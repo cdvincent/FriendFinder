@@ -8,6 +8,8 @@
     <li>HTML</li>
     <li>CSS</li>
     <li>Javascript</li>
+    <li>Express</li>
+    <li>Path</li>
 </ul>
 
 <h2>Description</h2>
